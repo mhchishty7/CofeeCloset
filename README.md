@@ -33,16 +33,4 @@ cd coffee-closet
 5. Click the "Submit" button to complete the checkout process.
 6. View the confirmation page that displays a summary of your order.
 
-## Contributing
-If you'd like to contribute to the Coffee Closet project, please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your contribution.
-3. Make your changes and commit them.
-4. Push your changes to your forked repository.
-5. Create a pull request to the original repository.
 
-## License
-The Coffee Closet project is open-source and available under the [MIT License](LICENSE).
-
-## Credits
-The Coffee Closet project was created by [Your Name].
